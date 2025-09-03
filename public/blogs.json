@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of Stillness in a Noisy World",
+    "author": "Magnus Fridh",
+    "posted_date": "2024-11-08",
+    
+    "reading_time": "5",
+    "hashtags": ["#stillness", "#mindfulness", "#wellness", "#meditation"],
+    "cover": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&q=80",
+    "author_img": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&w=400&h=400&fit=facearea"
+  },
+  {
+    "id": 2,
+    "title": "React Hooks: A Gentle Introduction",
+    "author": "Temitope Olajide",
+    "posted_date": "2025-01-24",
+    "reading_time": "7",
+    "hashtags": ["#react", "#webdevelopment", "#javascript", "#hooks"],
+    "cover": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80",
+    "author_img": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&w=400&h=400&fit=facearea"
+  },
+  {
+    "id": 3,
+    "title": "Why Chess Heals the Modern Mind",
+    "author": "Junkies Quest",
+    "posted_date": "2025-07-20",
+    "reading_time": "6",
+    "hashtags": ["#chess", "#mentalhealth", "#focus", "#wellbeing"],
+    "cover": "https://images.pexels.com/photos/277092/pexels-photo-277092.jpeg?w=1200&q=80",
+    "author_img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&w=400&h=400&fit=facearea"
+  },
+  {
+    "id": 4,
+    "title": "Building Emotionally Resonant Interfaces",
+    "author": "Munim Ahsan Chowdhury Primon",
+    "posted_date": "2025-06-11",
+    "reading_time": "8",
+    "hashtags": ["#uiux", "#empathy", "#design", "#technology"],
+    "cover": "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&q=80",
+    "author_img": "https://images.pexels.com/photos/768432/pexels-photo-768432.jpeg?auto=compress&w=400&h=400&fit=facearea"
+  },
+  {
+    "id": 5,
+    "title": "The Forgotten Histories of Bengal",
+    "author": "Aparna Ghosh",
+    "posted_date": "2024-10-02",
+    "reading_time": "9",
+    "hashtags": ["#bengal", "#history", "#culture", "#heritage"],
+    "cover": "https://cdn.pixabay.com/photo/2018/02/09/15/28/map-3148722_1280.jpg",
+    "author_img": "https://images.pexels.com/photos/1707828/pexels-photo-1707828.jpeg?auto=compress&w=400&h=400&fit=facearea"
+  }
+]
